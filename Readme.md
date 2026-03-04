@@ -4,25 +4,25 @@
 The system uses Large Language Models (LLMs) to generate organized notes, explain academic topics, and simulate viva-style questioning for exam preparation.
 
 
-## 🚀 Features
+## Features
 
-- 📄 **Lecture-to-Notes Generation**
+- **Lecture-to-Notes Generation**
   - Converts raw lecture transcripts into structured, exam-ready notes.
 
-- 🧠 **Topic Explanation**
+-  **Topic Explanation**
   - Generates clear academic explanations for user-entered topics.
 
-- 🎓 **Viva Chatbot**
+-  **Viva Chatbot**
   - Conducts interactive oral exam-style questioning.
 
-- 📑 **PDF Export**
+-  **PDF Export**
   - Generated notes can be downloaded as a formatted PDF.
 
-- 🎨 **Custom UI**
+-  **Custom UI**
   - Built using Streamlit with theme support and intuitive navigation.
 
 
-## 🏗 System Architecture
+##  System Architecture
 
 User Input  
 ↓  
@@ -37,7 +37,7 @@ Structured Output (Notes / Explanation / Viva Chat)
 PDF Export
 
 
-## ⚙ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Streamlit** – Web Application Framework
@@ -49,7 +49,7 @@ PDF Export
 - **HTTP Requests** – Local model communication
 
 
-## 📊 Algorithms Implemented
+##  Algorithms Implemented
 
 ### Notes Generation
 - Transcript chunking
@@ -67,14 +67,14 @@ PDF Export
 
 
 
-## 🧪 Speech-to-Text Module
+##  Speech-to-Text Module
 
 A speech-to-text prototype using **OpenAI Whisper** was implemented and tested in **Google Colab with GPU acceleration**.
 
 Due to hardware constraints for local inference, the current application processes **lecture transcripts (.txt files)** instead of raw audio input.  
 The speech-to-text module remains a validated prototype for future integration.
 
-## 📂 Project Structure
+##  Project Structure
 
 notesy-ai/
 │
@@ -88,7 +88,7 @@ notesy-ai/
 
 
 
-## ▶ How to Run
+##  How to Run
 
 ### Install Dependencies
 ```bash
@@ -113,14 +113,9 @@ Then run the Streamlit app:
 streamlit run notesy.py
 
 
-📌 Future Improvements
-
+### Future Improvements
 Real-time audio lecture transcription
-
 Cloud-based AI deployment
-
 User authentication & cloud note storage
-
 Multi-language support
-
 AI-based viva performance scoring
