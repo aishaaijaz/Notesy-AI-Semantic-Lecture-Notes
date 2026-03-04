@@ -9,16 +9,16 @@ The system uses Large Language Models (LLMs) to generate organized notes, explai
 - **Lecture-to-Notes Generation**
   - Converts raw lecture transcripts into structured, exam-ready notes.
 
--  **Topic Explanation**
+- **Topic Explanation**
   - Generates clear academic explanations for user-entered topics.
 
--  **Viva Chatbot**
+- **Viva Chatbot**
   - Conducts interactive oral exam-style questioning.
 
--  **PDF Export**
+- **PDF Export**
   - Generated notes can be downloaded as a formatted PDF.
 
--  **Custom UI**
+- **Custom UI**
   - Built using Streamlit with theme support and intuitive navigation.
 
 
@@ -42,7 +42,6 @@ PDF Export
 - **Python**
 - **Streamlit** – Web Application Framework
 - **Ollama** – Local LLM Inference
-- **Gemini API** – Cloud LLM (optional configuration)
 - **Whisper** – Speech-to-Text Prototype
 - **FPDF** – PDF generation
 - **JSON** – Data handling
@@ -76,6 +75,7 @@ The speech-to-text module remains a validated prototype for future integration.
 
 ##  Project Structure
 
+```
 notesy-ai/
 │
 ├── notesy.py
@@ -85,7 +85,7 @@ notesy-ai/
 ├── history.json
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ##  How to Run
@@ -103,14 +103,20 @@ Install Ollama:
 https://ollama.com
 
 Then pull the required models:
+```
 ollama pull qwen2.5:7b
 ollama pull neural-chat:7b
+```
 
 Start the Ollama server:
+```
 ollama serve
+```
 
 Then run the Streamlit app:
+```
 streamlit run notesy.py
+```
 
 
 ### Future Improvements
@@ -119,3 +125,9 @@ Cloud-based AI deployment
 User authentication & cloud note storage
 Multi-language support
 AI-based viva performance scoring
+
+### Author
+
+**Aisha Aijaz**  
+Computer Science Student  
+Capstone Project – Semantic Lecture Notes
