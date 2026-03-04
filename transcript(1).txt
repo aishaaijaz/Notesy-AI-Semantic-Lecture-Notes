@@ -1,0 +1,140 @@
+[210.00s - 234.80s]  Okay.
+[234.80s - 236.80s]  Can you hear me?
+[236.80s - 240.80s]  Yep. Good evening, professor.
+[240.80s - 250.80s]  Okay. Thank you. Thank you. Good evening. So please, if you can, you know, mute your mics. I mean, if you want to talk, of course, you know, feel free to go ahead and ask me a question.
+[250.80s - 256.80s]  Okay, so let us get started.
+[256.80s - 259.80s]  On this class.
+[259.80s - 266.80s]  This is EC 4710.
+[266.80s - 270.80s]  Computer hardware design, right?
+[270.80s - 281.80s]  As you can see in the screen right you have, you know, my contact information. I have office hours from two to four. You know they are virtual, of course, and
+[281.80s - 290.80s]  But of course, feel free to request any other time and I'll try my best to work around your schedule.
+[290.80s - 305.80s]  Lectures, Tuesday and Thursday, and we have synchronous live sessions on Thursdays, right? And on Tuesdays, we have asynchronous sessions, which are just videos that I post.
+[305.80s - 317.80s]  Okay, the idea of a synchronous session is to try to focus, you know, more on the examples, right, rather than on the theory. I guess the exception would be this first lecture.
+[317.80s - 321.80s]  You have the TA's there, by the way, they might change by the way in the near future.
+[321.80s - 326.80s]  You know, we're still figuring out which ones our TA's are.
+[326.80s - 340.80s]  There are four laboratory sections in this class, by the way. Only one of them is online. I believe there is one where some students might be confused about, you know, whether it is online or not.
+[340.80s - 353.80s]  But only the 007 or the 15707, that is the only one that is actually online. All the other ones are face to face.
+[353.80s - 364.80s]  OU has determined that, you know, we have to wait until the third week to have face to face labs.
+[364.80s - 367.80s]  And I hope that is the case.
+[367.80s - 378.80s]  I have a suspicion that, you know, that might not be the case. And unfortunately, you know, it is very likely that the entire semester, even the labs will be online.
+[378.80s - 382.80s]  Okay, that's very unfortunate.
+[382.80s - 389.80s]  But I mean, let's hope for the best, right? Let's see what happens in two weeks.
+[389.80s - 396.80s]  I do have a question, Professor, on the labs. Is there a limit on the online labs?
+[396.80s - 398.80s]  What do you mean? What do you mean by a limit?
+[398.80s - 403.80s]  Is there a limit to how many students can sign up per that lab?
+[403.80s - 408.80s]  No, no, I mean, 10. I mean, 10. I mean, yeah.
+[408.80s - 417.80s]  But it's not a big deal. I mean, in this class, we do not have a lot of students, unlike in other classes. So, you know, I think it's okay.
+[417.80s - 419.80s]  Yeah, I think.
+[419.80s - 425.80s]  Thank you. If we get 10, you know, we will be lucky. I think it will be less than that for sure.
+[425.80s - 427.80s]  Thank you.
+[427.80s - 447.80s]  Okay, so, like I said, let's hope for the best. Right. I hope, you know, this works out because really, I mean, you know, in my experience with all the classes, right, especially with computer hardware design, I mean, online labs don't work really well.
+[447.80s - 452.80s]  There's a lot that is missing there.
+[452.80s - 457.80s]  Okay, so the course materials, right.
+[457.80s - 469.80s]  All of the course material will be posted in Moodle. Those of you who took EC2700 with me know how this works already. I will just post the notes right online.
+[469.80s - 484.80s]  That's all that you will need for this class. Okay. That will be a Moodle. And just as a backup resource, you know, I will also post the material in that link that you can see right there, even though right now, you know, it's still not online.
+[484.80s - 485.80s]  It will be soon.
+[485.80s - 494.80s]  And most importantly, in this class, you will also need to go over the VHEL tutorial, right.
+[494.80s - 503.80s]  I can show it to you. Again, those of you who took EC2700 with me know this very well.
+[503.80s - 519.80s]  But in this class, we're going to focus on, you know, the late, the, you know, the last units, right, in seven, eight and nine. Okay. We're not focused on more VHEL in this class.
+[519.80s - 529.80s]  This class is more about design than actual theory. Okay. So again, textbooks, like you know, in my classes, I usually do not require a textbook.
+[529.80s - 543.80s]  Okay. Although if you want to get a textbook, that's fine. You know, the one that I recommend for this class is the Poncho, right, because it gives you a lot of examples, right, on actual, you know, actual useful digital systems.
+[543.80s - 547.80s]  Okay.
+[547.80s - 555.80s]  There are other books too, but you know, for the most part, this book that you will actually find useful. I mean, if you really want to design pure hardware.
+[555.80s - 562.80s]  These two are mostly for the theory, but you know, it will be covered already, by the way. Okay.
+[562.80s - 576.80s]  The course objectives, I mean, pretty straightforward, right. Again, we have to cover combinational sequential components in VHDL, describe how we can connect them together to implement a digital system, design what we call custom architecture, right,
+[576.80s - 590.80s]  to interact with what we call external peripherals, and then design what we call the special purpose processors. That is just a fancy name, by the way, for digital systems. Okay.
+[590.80s - 603.80s]  Build a test bench for a digital system, a proper test bench this time, and then simulation. Okay. We will do it over and over. Okay. And then of course working teams, right, to complete a final project.
+[603.80s - 614.80s]  As you can see here from the grading scheme, right, we have some homeworks, we have labs, which note how the labs is 36% of the class, by the way, is a lot, right.
+[614.80s - 622.80s]  Quite a lot of this class is mostly about digital design, you have to actually, you know,
+[622.80s - 634.80s]  focus a lot on VHDL. There is only one midterm exam, right, on the 18th of February, which of course you should be available online at that time, by the way.
+[634.80s - 641.80s]  There are no excuses, unless of course it's something extreme, right.
+[641.80s - 655.80s]  And there is a final project, and that's it. There is no final exam. There are no quizzes in this class, only labs and homeworks. Okay. That is all we have.
+[655.80s - 669.80s]  Okay. So the homeworks, of course, as you know, some of you know already, I posted, let's say one day, like the first homework will be posted on the 26th, and you have one week, one week, sorry, one week to turn in, okay, online to me.
+[669.80s - 684.80s]  Be careful here, some of you know it very well, but I do not accept late submissions on homeworks, okay. Like for example, if I post the homework on the 26th, you have to submit it online on the second.
+[684.80s - 689.80s]  Okay. Usually when the class was, you know, face to face, right.
+[689.80s - 693.80s]  The only way for you to submit this was in class.
+[693.80s - 695.80s]  Of course now there is no class.
+[695.80s - 708.80s]  And, well, for what it's worth, if it helps you a little bit, I will allow you to submit, you know, by the end of the day on the second. Okay. So you have, you know, until midnight to submit.
+[708.80s - 713.80s]  Okay, but be very careful with the deadline.
+[713.80s - 723.80s]  Then we have the midterm exam. Again, I do not usually envision many issues there with the midterm exam, by the way, most students do relatively well in the midterm exam.
+[723.80s - 730.80s]  Okay. And then we have the labs.
+[730.80s - 734.80s]  This is, I guess, one of the most important components of this class.
+[734.80s - 738.80s]  And we have six laboratory experiments.
+[738.80s - 748.80s]  Okay. But just because we have six laboratory experiments doesn't mean that we only have, you can only go, doesn't mean that you can only go to the lab six times. No.
+[748.80s - 762.80s]  Starting on the 19th, I think, hopefully, you can come to the lab every week to get assistance from the TA. Okay. Until the end of the semester.
+[762.80s - 778.80s]  Okay. So, and the labs, of course, to be fair, this semester, because, you know, given the circumstances, certainly we hope that this is the last time we have to do this online, right?
+[778.80s - 783.80s]  Hopefully in the fall things will get back to normal. At least that is the plan here in the department.
+[783.80s - 793.80s]  But due to the, you know, the circumstances, usually, for example, in the labs, I only allow one week for you to complete the labs.
+[793.80s - 800.80s]  But in this semester, for your labs, you will have actually two weeks to complete your labs. Okay.
+[800.80s - 805.80s]  Please do not wait until the last day or even the last week, by the way.
+[805.80s - 809.80s]  This lab, by the way, can take a lot of time. Okay.
+[809.80s - 833.80s]  Because that's where you usually have to spend most of your time. Okay. Discussing mostly about labs. Even the homework, by the way, you will see that even though I do not require you to put on the boards in the homeworks, you will see that in the homeworks, I ask you to also, you know, write code for a digital circuit and simulate, by the way.
+[833.80s - 843.80s]  So, you know, be prepared to do that as well. Okay. Discuss, like I said, it's mostly about pure practice. Okay. Not so much theory. Okay.
+[843.80s - 856.80s]  And of course, finally, you have a final project, which to me is the fun part. I mean, and to be fair, most students do well. Those who do not are the ones in which there is some kind of trouble in the loop.
+[856.80s - 858.80s]  Okay.
+[858.80s - 863.80s]  Of course, the presentations are actually on the day of your final exam, right.
+[863.80s - 872.80s]  Which of course we do not have an exam, but you know, on that day on the 22nd from 7 to 10pm. We'll schedule that online as well.
+[872.80s - 882.80s]  Okay. So that is, I guess, more or less how the different components of this class, you know, work together.
+[882.80s - 892.80s]  I know I think I'm talking too fast. So I'm going to stop a little bit. So do you have any questions up to this point?
+[892.80s - 900.80s]  I do have a question on the midterm exam. Yeah. It says that in class exams, but you mentioned that it is going to be online.
+[900.80s - 905.80s]  Well, yeah, of course. I mean, we cannot have a, you know, a natural in class exam, right.
+[905.80s - 916.80s]  Oh, what I mean by that is that, yes, that it will be closed notes, right. Like, for example, you can only use, you know, you know, a pencil and paper, quote unquote, right.
+[916.80s - 930.80s]  And you're supposed to work on your own and, you know, and I will be, quote unquote, there, you know, in case you need me, right, like in a Zoom call, if you have any questions, right, during the exam.
+[930.80s - 936.80s]  Okay. Okay. That's the only, yeah. Thank you.
+[936.80s - 943.80s]  All right. So, the great assignment where you know very well, our work.
+[943.80s - 947.80s]  And here, well,
+[947.80s - 965.80s]  I do not expect, you know, any of you to have this issue, but if, if you have not yet, if you do not have the board for whatever reason, because you should, if you took EC 2700, by the way, and if you are in the computer engineering program or the dual program, right.
+[965.80s - 979.80s]  You should have this board already or the next is for the old Nexus for DDR, right. Any one would work. So you should have that, by the way. If you don't, I mean, you better buy ASAP, by the way.
+[979.80s - 985.80s]  In this class, by the way, you will use this a lot, quite a lot, by the way.
+[985.80s - 990.80s]  You will use it over and over. Okay.
+[990.80s - 1005.80s]  Okay. So far, now, well, the same, you know, the Webpack edition, if you have an old version, it's okay. You can use the same old version that you have like 2017, 18, 19, that works fine in this class.
+[1005.80s - 1018.80s]  Okay. In some cases, you will see that you might need to use MATLAB. I believe you can use MATLAB remotely, right, using the, what is it, the remote desktop service.
+[1018.80s - 1027.80s]  Okay. Or if you have, if you for some reason have MATLAB, you know, that's fine too. But in case you do not have MATLAB and you want to have it, right.
+[1027.80s - 1034.80s]  You can also use something called Octave, which is the open source version of MATLAB. Okay.
+[1034.80s - 1047.80s]  You have different, you know, choices there. But I, I really believe actually that you should take advantage, especially now, you know, that they actually upgraded the servers.
+[1047.80s - 1057.80s]  You should take advantage of the remote desktop service to use MATLAB. They should have MATLAB there. Okay.
+[1057.80s - 1069.80s]  All right. And that's the two pieces of software we will need in this class. Okay. For you to complete your lab experiments or even your homework. Okay.
+[1069.80s - 1076.80s]  So please, please, this is extremely important for you to have the hardware. Okay.
+[1076.80s - 1088.80s]  Do not rely on the boards on the lab, by the way, because like I said, even if, you know, we're lucky and, you know, they actually open the labs, you know, on the third week, right.
+[1088.80s - 1098.80s]  You can only go three hours a week to the lab. Right. And that might not be enough. Okay. To complete this labs.
+[1098.80s - 1102.80s]  And especially for your final project too. Right.
+[1102.80s - 1112.80s]  Anyway, any questions there by the way? Yeah, I do have a question regarding this software. I know that we couldn't implement before using the HDL.
+[1112.80s - 1117.80s]  I'm sorry, Vivado online. Is that still the case that we won't be able to implement?
+[1117.80s - 1124.80s]  Well, yeah. Well, yeah, of course, because, you know, the servers, they are not connected to the boards. Right. Yeah.
+[1124.80s - 1132.80s]  So no, no, no. Yeah. I mean, but I mean, but if you take, I think you took EC 2700. So you should have that board already.
+[1132.80s - 1141.80s]  Yeah, I do. But I was just wondering if they upgraded. I don't know if they were able to do anything where we can implement online.
+[1141.80s - 1150.80s]  Once, you know, once, I mean, I was very, very naive and I asked that question to the computer provider, they say, no, I mean, that is not possible. Right. I mean, they cannot actually, you know.
+[1151.80s - 1161.80s]  They cannot program the board remotely from there. Okay. Yeah. Yeah. Thank you. I'm sorry. Yeah. But for your homework, right.
+[1161.80s - 1172.80s]  Because I may ask you to do for your homework. It might work to use a remote desktop service. Right. But to actually program the board, you do need, you know, the software in your computer, unfortunately.
+[1172.80s - 1192.80s]  Yeah. Okay. So the topics in this class. Right. So you, of course, know some of them already. We're going to start directly with digital system design. Right. We will cover, you know, some, you know, simple examples, some of them, by the way, you already know them.
+[1192.80s - 1195.80s]  You know them.
+[1195.80s - 1203.80s]  So this is just me showing you a bunch of different. Okay.
+[1203.80s - 1211.80s]  And again, you know, if you do not remember, of course, it is now that it is now the time for you to remember all of this.
+[1211.80s - 1220.80s]  How to design digital systems and how to write VHD code for this, by the way.
+[1220.80s - 1225.80s]  If you have forgotten, well, now is the time for you to remember that.
+[1225.80s - 1229.80s]  Then the second topic of this class is computer.
+[1229.80s - 1243.80s]  And here, let me say something. This part is the part that, you know, also students tend to struggle. And I guess I might say that is not too fun. Right.
+[1243.80s - 1249.80s]  We usually don't like dealing with some somehow sometimes I mean kind of dense math.
+[1249.80s - 1257.80s]  We have, for example, the simple and sign numbers, which you already know. So I'm going to just go very quickly on that, by the way.
+[1257.80s - 1264.80s]  But the part where that you really need to know are the easiest part. Six points arithmetic and floating point arithmetic.
+[1264.80s - 1270.80s]  Okay. We're going to cover that in detail now. This is what we use to represent real numbers.
+[1270.80s - 1277.80s]  Okay. And this is where some students have, you know, struggle a lot.
+[1277.80s - 1285.80s]  After that, by the way, everything just becomes pure design. Pure example. Okay.
+[1285.80s - 1293.80s]  Much of the theory is actually kind of gone. So then we want to cover how to design the external peripherals.
+[1293.80s - 1301.80s]  You already covered some of them in previous class, by the way. But in this class, we will cover, for example,
+[1301.80s - 1314.80s]  how to deal with the SPI protocol to communicate with an accelerometer, for example, or the I2C to communicate with a temperature sensor that is on your board, by the way.
+[1314.80s - 1331.80s]  Or when I use PWM, right, to control, you know, for example, the intensity of an RGB LED or the different tones, different frequencies for audio, right?
+[1331.80s - 1342.80s]  Or PDM, which is for microphones. I believe there is one lab experiment in which you have to, you know, record your own voice and play back.
+[1342.80s - 1355.80s]  So that's what we call an external peripheral in this class. It's kind of fun. But we felt the design is actually kind of challenging. And you will see that, by the way.
+[1355.80s - 1363.80s]  The digital system and the state machine can get really complex here.
+[1363.80s - 1377.80s]  Then we're going to cover some special techniques for, you know, how to design circuits. For example, we have the algorithm for KORVIK, which is an algorithm to compute trigonometric and transcendental functions.
+[1377.80s - 1392.80s]  We'll cover that too. Some square roots, you know, BCDR, CSA, other CSA multi-tier. Those are special, you know, units, okay, very, very specific units that might be very helpful to you.
+[1392.80s - 1409.80s]  Okay. A little bit to FPGA resources now. What is a configurable logic log? What is a PIFO? What is a block RAM, which is very different from a simple RAM? What is DSP, which is just units for multiplication and addition, by the way.
+[1409.80s - 1426.80s]  Also, clock managers, how to, for example, what is it? I forgot what it is already. Oh, how to divide frequency, right? In a professional way, not by using a simple counter. No, this is how to divide in a nice way.
+[1426.80s - 1444.80s]  And also the XADCs we have time. This is how, this is by the way, the ADCs, you know, the analog to digital converters in your FPGA. Okay. All of that can be actually very helpful to you and do the final project for a digital system.
+[1444.80s - 1463.80s]  Then we have pipelining, which is a technique to increase the speed, you know, of operation. Okay. We will cover that too. I think one session is enough to cover that topic. And then we will cover the rest of the class on what we call proper microprocessor design.
+[1463.80s - 1479.80s]  Okay. I think we covered three or four different, you know, simple microprocessor, right? And all the, you know, components, right? This part, like I said, is actually very fun. You know, we like this part a lot. Okay.
+[1479.80s - 1501.80s]  Okay. And this part, like I said here, not so much, even though I think it's very important, right? Otherwise how you compute, right? Calculation. This part here is actually very fun, but actually it's challenging. I have to say it is challenging.
+[1501.80s - 1513.80s]  Because as you might guess, you know, external peripherals, there are just way too many different peripherals, right? And everyone is unique. That's why it's challenging.
+[1513.80s - 1521.80s]  Okay. And then we also cover VHDL, by the way.
+[1521.80s - 1526.80s]  And in VHDL, we will cover
