@@ -86,6 +86,27 @@ notesy-ai/
 ├── requirements.txt
 └── README.md
 ```
+## Screenshots
+
+### Dashboard
+<p align="center">
+  <img src="images/Dashboard.png" width="700"/>
+</p>
+
+### Prep Buddy (Viva Chatbot)
+<p align="center">
+  <img src="images/Prep_Buddy.png" width="700"/>
+</p>
+
+### Lecture Notes Generation
+<p align="center">
+  <img src="images/Lecture_Notes.png" width="700"/>
+</p>
+
+### Topic Explanation
+<p align="center">
+  <img src="images/Topic_Explanation.png" width="700"/>
+</p>
 
 
 ##  How to Run
